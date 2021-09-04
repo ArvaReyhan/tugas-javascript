@@ -56,3 +56,11 @@ form button
 ![Output Form Button (1)](https://user-images.githubusercontent.com/89793740/132100406-0948903c-f20f-46a9-95fa-24640649ccf0.png)
 ![Output Form Button (2)](https://user-images.githubusercontent.com/89793740/132100407-ae0c2903-2ca7-47de-801d-562a59b364cd.png)
 ![Output Form Button (3)](https://user-images.githubusercontent.com/89793740/132100409-717a88f5-b18e-4b34-868f-8e732f28961e.png)
+
+tugas praktikum 1
+
+![Output Tugas Praktikum 1](https://user-images.githubusercontent.com/89793740/132100437-73686b65-9894-4a11-ad3d-cdd51eb87097.png)
+
+tugas praktikum 2
+
+![Output Tugas Praktikum 2](https://user-images.githubusercontent.com/89793740/132100443-762754f4-0f50-48c1-b0bd-5533b8e343c7.png)
